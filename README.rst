@@ -17,4 +17,5 @@ Python package for recording audio played using the MPRIS DBUS interface.
 Features
 --------
 
-* TODO
+* Monitor the MPRIS audio interface.
+
